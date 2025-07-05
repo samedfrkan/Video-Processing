@@ -4,7 +4,7 @@ Bu proje, Zero-DCE (Zero-Reference Deep Curve Estimation) modelini kullanarak vi
 
 ## Geliştirici Bilgileri
 
-- **Furkan Yıldız** -
+- **Furkan Yıldız** 
 - **Samed Furkan Demir** 
 
 ## Özellikler
